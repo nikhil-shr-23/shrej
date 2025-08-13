@@ -45,3 +45,8 @@ mvn spring-boot:run
 - Inventory decreases on order creation; low stock endpoint `GET /api/products/low-stock?threshold=10`.
 - Adjust `app.jwt.secret` and `app.jwt.expiration-ms` in `application.yml` for production.
 
+
+
+
+
+
