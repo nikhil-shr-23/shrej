@@ -99,3 +99,5 @@ This folder defines the application's domain entities (JPA models) and enums. Th
 - Controllers accept/return these entities (or DTOs) over REST.
 - Security uses `User` + `RoleType` to enforce access control.
 
+
+

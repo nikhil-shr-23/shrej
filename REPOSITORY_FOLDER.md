@@ -44,3 +44,5 @@ This folder contains Spring Data JPA repositories responsible for data access. R
 - **Pagination & Sorting**: Available via `Pageable`/`Sort` in inherited methods.
 - **Exception Handling**: `Optional<T>` for safe null handling; 404 mapping in controllers when missing.
 
+
+

@@ -61,3 +61,5 @@ UserDetailsService → SecurityContext → Controller
 - Token expiry is enforced; clients should refresh tokens appropriately.
 - Keep Swagger whitelisted for easier debugging and demos.
 
+
+

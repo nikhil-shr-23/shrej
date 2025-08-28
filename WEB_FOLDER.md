@@ -76,3 +76,5 @@ This folder exposes the REST API via Spring MVC controllers and centralizes exce
 - **Security**: Method-level security via `@PreAuthorize` requires a valid JWT and proper roles.
 - **URI Building**: Uses `ResponseEntity.created(URI)` for resource creation responses.
 
+
+
